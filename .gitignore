@@ -1,0 +1,9 @@
+# Ignore plugin manager backups and locks you might not want
+.netrwhist
+undo/
+backups/
+swp/
+
+# If you use certain package managers that download binaries locally
+*.so
+*.dll
